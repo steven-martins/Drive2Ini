@@ -1,0 +1,7 @@
+
+config = {
+    "username": 'login_x@gmail.com',
+    "password": "your_password",
+    "worksheet_key": "key_available_from_the_url",
+    "sheet_pos": 0 # number of the sheet/tab. From 0 to ...
+}
